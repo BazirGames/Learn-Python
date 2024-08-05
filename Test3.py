@@ -1,0 +1,1 @@
+print(f'{"Player Name":16}{"Goals":8}')
